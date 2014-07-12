@@ -1,7 +1,8 @@
-SFDC_QueryBuilder
+SFDC QueryBuilder
 =================
 
-This is a Query Builder application, which is built using Google App Script (GAS) which connects to Salesforce. One can perform series of CRUD operations.
+This is a Query Builder application, which is built using Google App Script (GAS) which connects to Salesforce. This provides UI which helps you to select
+different objects from drop down and builds dynamic query which performs series of CRUD operations.
 
 Set Up
 ---------
